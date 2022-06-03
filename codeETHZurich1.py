@@ -10,4 +10,4 @@ import numpy as np
 
 def fonctionTest():
     for i in range (10):
-        print("hello Word")
+        print("test")
