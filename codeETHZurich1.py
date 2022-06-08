@@ -6,8 +6,11 @@ Created on Thu Jun  2 09:11:54 2022
 @author: simonstefenel
 """
 
-import numpy as np 
-
-def fonctionTest():
-    for i in range (10):
-        print("test")
+import glob
+import math
+import numpy as np
+import os
+import pandas as pd
+import re
+import shutil
+import sys
